@@ -1,12 +1,10 @@
-# Kinobillettapplikasjon
+# Applikasjon for kinobillett
 
-Dette er en enkel JavaScript-applikasjon for å registrere kjøp av kinobilletter.
+En Javascript-applikasjon som blir brukt for å registrere billetter for kino. 
 
-## Funksjonalitet
+## Hvordan programmet virker
 
-Applikasjonen lar brukerne velge en film, angi antall billetter, og legge inn personlig informasjon som fornavn, etternavn, telefonnummer og e-postadresse.
-Når brukeren trykker på "Kjøp billett"-knappen, blir billettinformasjonen lagret som et objekt i et array, og deretter vises alle billettene i en liste nedenfor.
-Det er også en "Slett alle billettene"-knapp for å tømme arrayet og fjerne alle billettene fra listen.
+programmet er for at brukerene skal velge hvilken film de skal på med antall billetter og de kan legge inn fornavn, etternavn, telefonnummer og epost, billettene blir lagret etter brukeren trykker på kjøp billett knappen. billetten skal lagres som et array under "alle billettene " det finnes også slett billettene knap som gjør at man kan slette lagrende listen av informasjonen som ble lagt inn i boksene. 
 
 ## Inputvalidering
 
@@ -14,9 +12,10 @@ Det er en enkel inputvalidering som sjekker at alle feltene er fylt ut før du k
 
 For e-postfeltet er det en innebygd validering som sjekker om det angitte e-postformatet er gyldig.
 
-## Hvordan bruke
+## Hvordan programmet brukes
 
 1. Åpne `index.html` i en nettleser.
 2. Fyll ut alle feltene og trykk på "Kjøp billett"-knappen for å registrere en billett.
 3. Se registrerte billetter under "Alle billetter".
 4. For å slette alle billettene, trykk på "Slett alle billettene"-knappen.
+5. 
