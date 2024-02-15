@@ -27,4 +27,3 @@ For e-postfeltet er det en innebygd validering som sjekker om det angitte e-post
 2. Fyll ut alle feltene og trykk på "Kjøp billett"-knappen for å registrere en billett.
 3. Se registrerte billetter under "Alle billetter".
 4. For å slette alle billettene, trykk på "Slett alle billettene"-knappen.
-5. 
