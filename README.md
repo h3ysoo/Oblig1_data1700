@@ -1,3 +1,12 @@
+OsloMet brukernavn: yusel5620
+
+GitHub brukernavn: h3ysoo
+
+Github repo URL: https://github.com/h3ysoo/Oblig1_data1700
+
+Fullt navn: Yusuf Heysem SELEN
+
+Kort beskrivelse av applikasjon : 
 # Applikasjon for kinobillett
 
 En Javascript-applikasjon som blir brukt for å registrere billetter for kino. 
